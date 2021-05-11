@@ -1,2 +1,2 @@
 # DrakkoBot
-@Drakko_Bot Bot con fines de uso personal
+@Drakko_bot Bot con fines de uso personal
